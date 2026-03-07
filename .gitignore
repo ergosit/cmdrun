@@ -1,0 +1,10 @@
+# Build
+bin/
+
+# IDE/Editor
+
+# GoLand
+.idea/
+
+# VS Code
+.vscode/
