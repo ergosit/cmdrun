@@ -405,7 +405,7 @@ linters:
       values:
         const:
           # Type the appropriate license name below.
-          LICENSE: TODO
+          LICENSE: the MIT License
         regexp:
           YEAR: 20[0-9]{2}
           # Format: a name or nickname followed by an email.
