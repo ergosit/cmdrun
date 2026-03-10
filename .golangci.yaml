@@ -535,7 +535,7 @@ linters:
       # Mark all exported fields as used.
       exported-fields-are-used: false
       # Mark all function parameters as used.
-      parameters-are-used: false
+      parameters-are-used: true
       # Mark all local variables as used.
       local-variables-are-used: false
       # Mark all identifiers inside generated files as used.
