@@ -567,9 +567,12 @@ linters:
           - dupl
           - errcheck
           - funlen
+          - gochecknoglobals
           - goconst
           - gosec
           - noctx
+          - reassign
+          - unused
 
 # ========================= Formatters configuration ========================= #
 formatters:
